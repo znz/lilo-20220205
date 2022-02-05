@@ -141,11 +141,7 @@ sudo chroot "$CHROOT" apt-get -y install cloud-init openssh-server
 
 # 使い分け
 
-いまさらで物凄く恐縮ですが、cloud-initについて勉強してみた <https://qiita.com/MUCHIUCHI_OJISAN/items/9c013e87bd2dbeb4ca4a> より
-
-![](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/133151/17565010-9d5f-0267-6e30-ac77d6aaf13b.png){:relative_height='100'}
-
-(TODO: 公開スライドでは画像埋め込みは消す)
+「いまさらで物凄く恐縮ですが、cloud-initについて勉強してみた」 <https://qiita.com/MUCHIUCHI_OJISAN/items/9c013e87bd2dbeb4ca4a> の「使い分け」を参照
 
 # ディスクイメージ作成前の最後の処理
 
